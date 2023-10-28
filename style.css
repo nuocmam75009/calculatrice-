@@ -26,8 +26,8 @@ body {
 }
 .calculatrice span {
     display: grid;
-    width: 60px;
-    height: 60px;
+/*    width: 60px;*/
+    height: 50px;
     color: white;
     background-color: #0c2835;
     place-items: center;
